@@ -27,6 +27,10 @@ A fun and challenging tilting maze game where you control the maze by tilting it
 
 ## 🚀 Getting Started
 
+### 🎮 Play Online
+Try the game live: [Tilting Maze Game](https://iam269.github.io/Tilting-Maze-game/)
+
+### 💻 Play Locally
 1. 📁 Open the project folder.
 2. 🌐 Double-click `index.html` to open it in your web browser.
 3. 🎉 Start playing immediately - no installation required!
